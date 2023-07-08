@@ -1,0 +1,1 @@
+Python script using bsedata library to fetch daily data of top 50 stocks and then plotting a bar chart representing % change. Bar chart is using green for +ive change and red for -ve change. 
